@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "AllMyGames",
+  "description": "A centralized place to find the complete list of games I own.",
+  "version": "0.0.1",
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": "icon-16.png"
+  }
+}
